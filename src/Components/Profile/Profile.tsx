@@ -6,7 +6,7 @@ const Profile = () => {
     return <div>
         <div>
             <img
-                src='https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-chinese-style-traditional-beijing-opera-mask-background-material-image_126730.jpg'></img>
+                src='https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-original-line-lattice-six-background-abstract-pixel-rain-image_523661.jpg'></img>
         </div>
         <div>
             ava + description
